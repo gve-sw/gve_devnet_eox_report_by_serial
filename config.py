@@ -1,0 +1,7 @@
+# Cisco EoX API App Details
+CLIENT_ID = ""
+CLIENT_SECRET = ""
+
+# CSV Details
+CSV_FILE_NAME = ""
+SERIAL_NUMBER_COLUMN_NAME = ""
